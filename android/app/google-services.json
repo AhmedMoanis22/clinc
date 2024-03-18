@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880204703949",
+    "project_id": "clincappdistrubution",
+    "storage_bucket": "clincappdistrubution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880204703949:android:3f21df9f51f51010f8a184",
+        "android_client_info": {
+          "package_name": "com.example.clinc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4BgJgog61Q32eFJG5W8ixs_oO6gntII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
